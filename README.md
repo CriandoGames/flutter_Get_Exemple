@@ -1,6 +1,10 @@
 # virus_app
 
-A new Flutter project.
+Get and DIO - Get numbers of cases Corona Virus
+Getting Started
+clone this repository:
+
+git clone 
 
 ## Getting Started
 
