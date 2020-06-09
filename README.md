@@ -9,9 +9,7 @@ https://github.com/CriandoGames/flutter_Get_Exemple.git
 ## Getting Started
 
 And run itflutter runDemonstration: 
-
-
-
+![](Result.gif)
 
 
 This project is a starting point for a Flutter application.
